@@ -1,0 +1,16 @@
+---
+title: "Preprocessing and visualizations"
+author: "Margherita Calderan"
+date: today
+format:
+  html:
+    page-layout: full  
+    max-width: 100%
+    toc: true
+    toc-location: left
+    toc-depth: 3
+    number-sections: true
+    theme: cosmo
+    css: custom-style.css
+---
+
